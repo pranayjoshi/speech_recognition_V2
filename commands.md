@@ -5,6 +5,7 @@
 ## fun questions
 * hey indo what\'s your actual name := speak out its Name
 * What's up := speaks "just doing my thing"
+
 ## Websites
 **Note: Some websits are added by default ** 
 
@@ -21,6 +22,7 @@ Here are some default websites commands:-
 ## Web Based Commands
 **Jokes**
 * indo tell me some jokes  := tell some random jokes
+
 **Wikipedia Search**
 * indo wikipedia search + (query name ) := search in wikipedia
 after this step you will be asked for what you want to hear. choose speak one of the following
@@ -28,6 +30,7 @@ after this step you will be asked for what you want to hear. choose speak one of
   * A short summary
   * A summary
   * or view full page content
+  
 **Whether report**
 * indo what\'s current weather in (City name) := speak the current whether in the (city name)
 
