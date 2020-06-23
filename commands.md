@@ -16,6 +16,7 @@ Here are some default websites commands:-
 * indo open developer's github
 * indo open reddit
 * indo open amazon
+
 **to avoid this method you have to say in the following format ``` indo open website (website name)+domain ``` .**
 ## Web Based Commands
 **Jokes**
@@ -29,7 +30,7 @@ after this step you will be asked for what you want to hear. choose speak one of
   * or view full page content
 **Whether report**
 * indo what\'s current weather in (City name) := speak the current whether in the (city name)
-** Latitude Longitude
+**Latitude Longitude**
 * indo find longitude and latitude of (city name)  := speak the long & Lat of the (city name)
 ## Application Commands.
 
@@ -41,6 +42,7 @@ To add a new website. Run the script ``` app_file.py ``` and fill details.
 To add a new website. Run the script ``` mailing_list.py ``` and fill details.
 
 * indo send mail := This will ask you the content and rescipient's name. After entering the details it will send the mail.
+
 **note that the account by which you will login should not be a 2 level verification account.**
 ## System Commands
 * indo shutdown  := Shutdown your system.
