@@ -7,7 +7,7 @@
 * What's up := speaks "just doing my thing"
 
 ## Websites
-**Note: Some websits are added by default ** 
+**Note: Some websits are added by default** 
 
 To add a new website. Run the script ``` websites.py ``` and fill details
 
