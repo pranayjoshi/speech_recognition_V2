@@ -30,6 +30,7 @@ after this step you will be asked for what you want to hear. choose speak one of
   * or view full page content
 **Whether report**
 * indo what\'s current weather in (City name) := speak the current whether in the (city name)
+
 **Latitude Longitude**
 * indo find longitude and latitude of (city name)  := speak the long & Lat of the (city name)
 ## Application Commands.
