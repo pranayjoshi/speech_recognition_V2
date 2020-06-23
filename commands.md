@@ -1,5 +1,5 @@
 # Commands for indo.
-** Note: always use Indo before you speak the command. **
+** Note: always use Indo before you speak the command.
 ## prerequisites 
 * Python should be installed
 ## fun questions
